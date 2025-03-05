@@ -1,5 +1,7 @@
 # CAP fhL 2025: Basics of LLMs: Prompting, Function Calling & Structured Outputs
 
+Learn the fundamentals of working with large language models (LLMs), including prompt engineering techniques, function calling for automation, and generating structured outputs for real-world applications. Perfect for developers and AI enthusiasts!
+
 ## Getting started
 
 ### Pre-requisite
